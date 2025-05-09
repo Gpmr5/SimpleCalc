@@ -19,11 +19,7 @@ SimpleCalc
 ```bash
 mvn clean install
 
-# төслийг цэвэрлэж, дахин угсарч, бүх тестийг ажиллуулна    
-
-mvn clean install
-
-# Тест ажиллуулах
+# төслийг цэвэрлэж, дахин угсарч, бүх тестийг ажиллуулна
 
 mvn checkstyle:check
 
